@@ -1,0 +1,10 @@
+#Ignore build files
+/build/
+*. o
+*.exe
+
+#Ignore logs
+*.log
+
+#Ignore OS Files
+.DS_Store
